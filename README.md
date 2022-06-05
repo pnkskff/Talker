@@ -26,7 +26,7 @@ III. OPTIMIZATION:
   
   5. Translation - Translate from English to User's Language preference.
 
-IV: FURTHER INFO:
+IV. FURTHER INFO:
 
   1. Readme last updated on: JUNE 2022
 
