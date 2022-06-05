@@ -7,7 +7,8 @@ This is a Text to Speech App - Type a Sentence and the App will say it back to t
 
 II. NOTES:
 
-1. Built with HTML/CSS/JS/API.
+1. Built with HTML/CSS/JS.
+2. Speech function via Code of Windows Speech Synthesis.
 
 III. OPTIMIZATION:
 
