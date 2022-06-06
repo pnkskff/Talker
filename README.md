@@ -20,7 +20,7 @@ III. OPTIMIZATION:
   
   2. Spell Check - User can check if Spelling is correct.
   
-  3. History of User Inputs - Limit of 5 Sentences/VWords.
+  3. History of User Inputs - Limit of 5 Sentences/Words.
   
   4. Voice Customization - Choose from a variety of inclusive voices.
   
