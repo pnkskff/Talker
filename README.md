@@ -7,6 +7,8 @@ I. INTRO:
   2. This is a Text to Speech App - Type a Sentence and the App will say it back to the User, App then displays:
 
      a. Text in the DOM.
+     
+     b. Audio of Text inputted within Input Field.
 
 II. NOTES:
 
